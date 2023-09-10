@@ -2,7 +2,7 @@
 CareerFoundry project analyzing videogame sales data via Excel.
 
 ## Files
-Excel_Project_Brief
+GameCo_Project_Brief
 
 Data Exploration
 
