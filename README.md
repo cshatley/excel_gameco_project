@@ -1,2 +1,5 @@
-# excel_gameco_project
-CareerFoundry project analyzing videogame sales data via Excel
+# Excel GameCo Project
+CareerFoundry project analyzing videogame sales data via Excel.
+
+## Files
+Excel_Project_Brief
