@@ -1,4 +1,4 @@
-# Excel GameCo Project
+# GameCo Project
 
 ### Objective
 Analyze global videogame sales data to gain insights into future opportunities and development.
