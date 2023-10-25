@@ -12,6 +12,8 @@ PowerPoint presentation featuring analysis and visuals from Excel.
 ### Files
 GameCo_Project_Brief
 
+Project Portfolio (starting slide 3)
+
 Data Exploration
 
 GameCo Presentation
